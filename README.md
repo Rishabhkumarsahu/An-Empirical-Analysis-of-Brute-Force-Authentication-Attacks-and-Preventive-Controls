@@ -3,8 +3,8 @@ This project explores how brute force attacks exploit weak authentication system
 
 The primary focus areas include:
 
-° Simulating SSH brute force attacks
-° Monitoring authentication logs
-° Observing attack behavior
-° Implementing preventive controls
-° Evaluating defense effectiveness
+ Simulating SSH brute force attacks
+ Monitoring authentication logs
+ Observing attack behavior
+ Implementing preventive controls
+ Evaluating defense effectiveness
